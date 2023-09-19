@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+// Задание: Поиск наиболее похожего слова в массиве на данное
+
 public class Main {
     public static void main(String[] args) {
         String[] stringArray = {"мама мыла раму шапкой тома"};
